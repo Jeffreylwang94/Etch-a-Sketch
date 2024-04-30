@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    background-color: aqua;
+    flex-wrap: wrap;
+    height: 800px;
+    width: 800px;
+    justify-content: center;
+    /* align-content: center; */
+}
